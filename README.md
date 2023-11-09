@@ -1,27 +1,37 @@
-# AZAWORLD's Software Automation Engineer Portfolio
+# Arifuzzaman Antor's Software Automation Engineer Portfolio
 
 ## About Me
 
-I am a passionate Software Automation Engineer with three years of industry experience. I specialize in creating robust and efficient automation solutions for software testing and deployment processes. I am dedicated to staying updated with the latest technologies and tools in the field, striving to optimize workflows and enhance overall efficiency.
+I am Arifuzzaman Antor, a dedicated Software Automation Engineer with three years of industry experience. I specialize in creating robust and efficient automation solutions for software testing and deployment processes. I am passionate about optimizing workflows and staying up-to-date with the latest technologies and tools in the field.
 
 ## Skills
 
-- Proficient in various programming languages including [List languages]
-- Expertise in creating and maintaining automated test scripts using [Testing Frameworks]
-- Strong understanding of software development methodologies and best practices
-- Experience with [Tools and Technologies you are skilled with]
+- Proficient in various programming languages.
+- Expertise in creating and maintaining automated test scripts using industry-standard testing frameworks.
+- Strong understanding of software development methodologies and best practices.
+- Experience with a range of tools and technologies in the software automation field.
 
 ## Work Experience
 
-### [Current Company/Organization Name] (Month Year - Present)
-- Developed and maintained automation frameworks for [specific projects or tasks].
-- Implemented continuous integration and delivery pipelines to ensure smooth and efficient deployment processes.
-- Collaborated with cross-functional teams to identify and address software issues and ensure quality standards were met.
+### We Carry Bags (UK) - QA Engineer (Month Year - Month Year)
+- Developed and maintained automation frameworks for quality assurance.
+- Implemented continuous integration and delivery pipelines for efficient deployment processes.
+- Collaborated with cross-functional teams to identify and resolve software issues to meet quality standards.
 
-### [Previous Company/Organization Name] (Month Year - Month Year)
-- Contributed to the development and execution of automated test scripts for [specific projects or tasks].
-- Worked closely with the development team to identify and resolve software bugs and issues.
-- Assisted in the design and implementation of new automation tools and processes to improve overall efficiency.
+### Dynamic Solution Innovators - Jr. Software QA Engineer (Month Year - Month Year)
+- Contributed to the development and execution of automated test scripts for various projects.
+- Worked closely with the development team to identify and address software bugs and issues.
+- Assisted in the design and implementation of new automation tools and processes to improve efficiency.
+
+### REVE Systems - Software QA Engineer (Dhaka, Bangladesh) (Month Year - Month Year)
+- Played a key role in the software quality assurance team.
+- Worked on testing and ensuring the quality of software products.
+- Collaborated with the development team to deliver high-quality software.
+
+### Kinetik (USA) - Software QA Engineer I (Month Year - Present)
+- Currently working as a Software QA Engineer.
+- Responsible for testing and ensuring the quality of software products.
+- Collaborating with the team to deliver high-quality software solutions.
 
 ## Projects
 
@@ -31,8 +41,7 @@ I am a passionate Software Automation Engineer with three years of industry expe
 
 ## Education
 
-- [Degree Name], [University Name], [Year of Graduation]
-- [Certifications or Additional Courses]
+- B.Sc. in Computer Science and Engineering, Shahjalal University of Science and Technology (Year of Graduation)
 
 ## Contact Me
 
