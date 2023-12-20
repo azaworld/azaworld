@@ -80,5 +80,5 @@ Feel free to reach out if you have any questions or would like to discuss potent
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/azantor)
-- Email: [youremail@example.com](mailto:arifuzantor@example.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/azantor)
+- Email: [arifuzantor@gmail.com](mailto:arifuzantor@example.com)
