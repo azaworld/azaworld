@@ -1,4 +1,4 @@
-# Arifuzzaman Antor - Automation Engineer
+# Arifuzzaman Antor - Software Automation Engineer
 
 ## About Me
 
@@ -58,17 +58,17 @@ Feel free to reach out if you have any questions or would like to discuss potent
 
 ## Work Experience
 
-### We Carry Bags (UK) - QA Engineer (Month Year - Month Year)
+### We Carry Bags (UK) - QA Engineer (June 2020 - Aug 2021)
 - Developed and maintained automation frameworks for quality assurance.
 - Implemented continuous integration and delivery pipelines for efficient deployment processes.
 - Collaborated with cross-functional teams to identify and resolve software issues to meet quality standards.
 
-### Dynamic Solution Innovators - Jr. Software QA Engineer (Month Year - Month Year)
+### Dynamic Solution Innovators - Jr. Software QA Engineer (Sept 2021 - Nov 2022)
 - Contributed to the development and execution of automated test scripts for various projects.
 - Worked closely with the development team to identify and address software bugs and issues.
 - Assisted in the design and implementation of new automation tools and processes to improve efficiency.
 
-### REVE Systems - Software QA Engineer (Dhaka, Bangladesh) (Month Year - Month Year)
+### REVE Systems - Software QA Engineer (Dhaka, Bangladesh) (Dec 2022 - Sept. 2023)
 - Played a key role in the software quality assurance team.
 - Worked on testing and ensuring the quality of software products.
 - Collaborated with the development team to deliver high-quality software.
