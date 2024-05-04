@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Arifuzzaman Antor, a dedicated Software Automation Engineer with three years of industry experience. I specialize in creating robust and efficient automation solutions for software testing and deployment processes. I am passionate about optimizing workflows and staying up-to-date with the latest technologies and tools in the field.
+I am Arifuzzaman Antor, a dedicated Software Automation Engineer with vast industry experience. I specialize in creating robust and efficient automation solutions for software testing and deployment processes. I am passionate about optimizing workflows and staying up-to-date with the latest technologies and tools in the field.
 
 ## Skills
 
