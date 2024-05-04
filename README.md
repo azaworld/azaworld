@@ -6,7 +6,7 @@ I am Arifuzzaman Antor, a dedicated Software Automation Engineer with three year
 
 ## Skills
 
-During my three years of experience as an Automation Engineer, I've developed a wide range of skills, including:
+During my experience as an Automation Engineer, I've developed a wide range of skills, including:
 
 - **Test Automation:** Proficiency in creating and maintaining automated test scripts using industry-standard testing frameworks like Selenium, Appium, and JUnit.
 
