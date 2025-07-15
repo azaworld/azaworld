@@ -8,123 +8,140 @@
 
 ## 👋 About Me
 
-I am **Arifuzzaman Antor**, a passionate **Senior Software QA Automation Engineer** with over **5 years of progressive experience** driving quality in software through cutting-edge automation and AI-powered testing solutions.  
-I specialize in **designing scalable automation frameworks**, implementing **CI/CD best practices**, and leveraging **AI/ML tools** to optimize test coverage and defect detection.  
+I’m **Arifuzzaman Antor**, a result-driven **Senior Software QA Automation Engineer** with over **5 years of professional experience** in end-to-end testing across web, mobile, and API platforms. I specialize in building robust automation frameworks using modern technologies like **TypeScript + Playwright**, **Docker**, and **CI/CD integrations**, along with hands-on experience in **AI-based testing tools**.
 
-I thrive in **Agile environments**, working collaboratively to deliver robust, high-quality software that exceeds business goals.
+I currently lead QA efforts for cross-platform mobile applications and mission-critical backend systems, ensuring seamless performance, security, and usability.
 
 ---
 
 ## 🚀 Core Competencies & Expertise
 
-### 🔧 Automation & Framework Development  
-- Architecting **scalable, maintainable automation frameworks** with **Selenium**, **Playwright**, **Appium**, **Cypress**, and **TestNG/JUnit**.  
-- Developed **keyword-driven, data-driven, and hybrid frameworks** supporting parallel execution and cross-browser testing.  
-- Implemented **containerized test environments** using **Docker** and orchestration with **Kubernetes** for scalability.  
+### 🔧 Automation & Frameworks  
+- Expert in building scalable automation suites with **Playwright (TypeScript)**, **Selenium**, **Appium**, and **Cypress**  
+- Automation architecture for **web, API, and mobile testing**, including **hybrid frameworks**  
+- Containerized test execution using **Docker** and cloud-based testing pipelines with **Bitbucket Pipelines**, **GitHub Actions**, and **Jenkins**
 
-### 💻 Programming & Scripting  
-- Proficient in **Python**, **Java**, **JavaScript (Node.js, TypeScript)**, and **Groovy** for Jenkins pipelines scripting.  
-- Writing **clean, modular, reusable code** with Test-Driven Development (TDD) and Behavior-Driven Development (BDD) using **Cucumber** and **Gherkin** syntax.  
+### 💻 Scripting & Development  
+- Advanced coding in **TypeScript**, **JavaScript**, **Python**, and **Java**  
+- Familiar with BDD using **Cucumber + Gherkin** syntax  
+- Built custom testing utilities and test runners for faster debugging and maintenance
 
-### 🔄 CI/CD & DevOps Integration  
-- Designed and maintained CI/CD pipelines using **Jenkins**, **GitHub Actions**, **GitLab CI**, **Travis CI**, and **Bitbucket Pipelines**.  
-- Integrated automated tests in pipelines with **Docker** and **AWS EC2/ECS** for cloud-native deployments.  
-- Automated test reporting and alerting via **Slack**, **Microsoft Teams**, **Email**, and **JIRA** ticket generation.
+### 🌐 API, Performance & Security Testing  
+- Skilled in RESTful API testing using **Postman**, **REST Assured**, **Swagger**, and **Newman**  
+- Performance testing using **k6**, **JMeter**, and integration into CI/CD pipelines  
+- Conducting **OWASP ZAP**, **Burp Suite** and static code scans for security assessments
 
-### 📊 AI & Machine Learning in Testing  
-- Leveraged AI-powered testing tools like **Testim.io**, **Mabl**, and **Applitools AI** for **visual regression**, **self-healing tests**, and **smart test maintenance**.  
-- Integrated **natural language processing (NLP)** techniques for **automated test case generation** and **defect triaging**.  
-- Utilized **anomaly detection** algorithms in test result analytics to proactively identify flaky tests and potential software regressions.  
+### 🔄 CI/CD & DevOps  
+- Developed CI-integrated automation pipelines on **AWS EC2**, **Bitbucket**, and **Dockerized test infrastructure**  
+- Automated alerts and reports to **Microsoft Teams**, **Slack**, and **JIRA**
 
-### 🧪 Testing Types & Methodologies  
-- Expertise in **functional, regression, integration, end-to-end, smoke, sanity, load, stress, security**, and **usability testing**.  
-- Skilled in **API testing** using **Postman**, **REST Assured**, **Swagger**, and automating with **Newman**.  
-- Performance testing using **JMeter**, **k6**, and **Gatling** with actionable dashboards.  
-- Security testing fundamentals with **OWASP ZAP**, **Burp Suite**, and static code analysis tools.
+### 🧠 AI in QA  
+- Experience with AI-powered tools like **Testim.io**, **Mabl**, and **Applitools**  
+- Utilized AI for **visual regression**, **self-healing scripts**, and **test case generation**
 
-### 📚 Agile & Team Collaboration  
-- Active member of **Scrum teams** facilitating sprint planning, daily standups, retrospectives, and backlog grooming.  
-- Mentor junior QA engineers, promoting knowledge sharing and best practices.  
-- Experience with **remote collaboration tools**: Slack, Confluence, Trello, and Miro.
+---
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 | Category                | Tools & Technologies                            |
 |-------------------------|------------------------------------------------|
-| **Test Automation**     | Selenium, Playwright, Appium, Cypress, TestNG, JUnit, Pytest, Cucumber |
-| **Programming**         | Python, Java, JavaScript, TypeScript, Groovy   |
-| **CI/CD**               | Jenkins, GitHub Actions, GitLab CI, Travis CI, Bitbucket Pipelines, Docker, Kubernetes, AWS EC2/ECS |
+| **Languages**           | TypeScript, JavaScript, Python, Java            |
+| **Automation**          | Playwright, Selenium, Cypress, Appium           |
+| **Mobile**              | iOS & Android (real devices + emulators)        |
 | **API Testing**         | Postman, Swagger, REST Assured, Newman          |
-| **Performance Testing** | JMeter, k6, Gatling                             |
-| **AI-Powered Testing**  | Testim.io, Mabl, Applitools, Selenium IDE (with AI plugins) |
-| **Security Testing**    | OWASP ZAP, Burp Suite, SonarQube, Checkmarx    |
-| **Version Control**     | Git, GitHub, Bitbucket                           |
-| **Bug Tracking**        | JIRA, Trello, Bugzilla                           |
-| **Reporting**           | Allure, ExtentReports, custom dashboards        |
-| **Collaboration**       | Slack, MS Teams, Confluence, Miro               |
+| **CI/CD & Infra**       | Jenkins, Bitbucket Pipelines, Docker, AWS EC2   |
+| **Performance**         | JMeter, k6, Gatling                             |
+| **Security**            | OWASP ZAP, Burp Suite, SonarQube                |
+| **Reporting**           | Allure, ExtentReports, Custom Dashboards        |
+| **Agile Tools**         | JIRA, Trello, Confluence, QASE                  |
+| **Collab & Alerts**     | Slack, MS Teams, GitHub, Bitbucket              |
 
 ---
 
-## 🛠️ Professional Experience
-
-### Kinetik (USA) — Software QA Engineer I  
-*Oct 2023 – Present*  
-- Architecting **cloud-native, containerized Playwright automation suites** integrated with Bitbucket pipelines and Microsoft Teams for real-time alerts.  
-- Leveraging **AI-powered visual validation tools** like Applitools to ensure pixel-perfect UI across devices and browsers.  
-- Spearheading **API regression automation** for complex GraphQL endpoints improving early defect detection by 40%.  
-
-### REVE Systems (Dhaka, Bangladesh) — Software QA Engineer  
-*Dec 2022 – Sept 2023*  
-- Designed and implemented automation frameworks using Selenium and Python for telecom VoIP software.  
-- Led performance and security testing initiatives using JMeter and OWASP ZAP.  
-- Collaborated with distributed teams to optimize release cycles and test coverage.  
-
-### Dynamic Solution Innovators — Jr. Software QA Engineer  
-*Sept 2021 – Nov 2022*  
-- Developed automated tests and integrated them into Jenkins pipelines for continuous validation.  
-- Assisted in creating reusable automation components to reduce testing time by 30%.  
-- Contributed to Agile ceremonies and facilitated knowledge sharing sessions.  
-
-### We Carry Bags (UK) — QA Engineer  
-*June 2020 – Aug 2021*  
-- Developed and maintained Selenium and TestNG based automation frameworks for e-commerce web applications.  
-- Automated CI/CD workflows using Jenkins, resulting in faster and reliable deployments.  
-- Proactively engaged with cross-functional teams to troubleshoot and resolve production issues.  
+## 🧪 Testing Types Covered
+- Functional / Regression / Smoke / Sanity / UAT  
+- Load / Performance / Stress Testing  
+- REST API & GraphQL Testing  
+- Mobile App Testing (Android + iOS)  
+- Accessibility & Visual Testing  
+- Usability / Exploratory / Data Validation  
+- Security & Compliance Testing  
+- Cross-browser & Responsive Testing  
 
 ---
 
-## 📈 Highlighted Projects & Achievements
+## 🏢 Professional Experience
 
-- **Dockerized Playwright Suite on AWS**: Designed a fully Dockerized Playwright test automation framework deployed on AWS EC2, integrated with Bitbucket Pipelines, delivering comprehensive multi-environment coverage and real-time MS Teams alerts.  
-- **AI-Driven Test Automation**: Integrated AI-based visual regression and self-healing capabilities using Applitools and Testim, reducing flaky test failures by over 50%.  
-- **Load & Performance Testing Pipelines**: Built automated k6 and JMeter load testing pipelines with detailed performance dashboards, enhancing system reliability under peak loads.  
-- **Automated API Validation**: Created REST Assured based API test suites for complex microservices architecture, integrated with Jenkins for nightly regression runs.  
-- **Security & Compliance Testing**: Led OWASP ZAP based security testing to detect vulnerabilities early, contributing to safer releases and regulatory compliance.
+### 🔹 Kinetik Care, New York, USA — Software QA Engineer I  
+**Sept 2023 – Present**
 
----
+- **QA Lead for Kinetik Health App (iOS + Android)** — leading testing across all mobile platforms  
+  - Managing test strategies for **manual, API, security, load, regression, smoke, exploratory**, and **UAT** testing  
+  - Designing and executing test cases for critical healthcare user flows  
+  - Collaborating with **Product Managers**, **Engineering Leads**, **CTO**, and **DevOps** for seamless releases
 
-## 📚 Certifications & Continuous Learning
-
-- **Certified Scrum Master (CSM)**  
-- **ISTQB Advanced Level Test Automation Engineer**  
-- **AWS Certified Cloud Practitioner**  
-- Regular contributor to QA blogs and open source testing projects  
-- Active learner of AI & ML techniques applied to software testing  
-
----
-
-## 📬 Let's Connect!
-
-I’m always eager to network, collaborate, and share knowledge. Feel free to reach out!  
-
-- **LinkedIn:** [linkedin.com/in/azantor](https://www.linkedin.com/in/azantor)  
-- **Email:** [arifuzantor@gmail.com](mailto:arifuzantor@gmail.com)  
-- **GitHub:** [github.com/arifuzantor](https://github.com/arifuzantor)  
+- Built and maintained **TypeScript + Playwright automation** for web and mobile test suites  
+- Automated API test flows with **Postman collections** and CI integration  
+- Provided test architecture and documentation for QA across all products:  
+  - **Trip Scheduler (TS)**, **Trip Assistant (TA)**, and **RCM (Revenue Cycle Management)**  
+- Led **peer reviews**, **test planning**, and cross-team testing initiatives for release readiness  
+- Delivered end-to-end QA coverage with data validation, edge-case scenario testing, and risk-based prioritization  
 
 ---
 
-## ⚡ Empowering Software Quality with Innovation & AI-driven Automation!
-
+### 🔹 REVE Systems — Software QA Engineer  
+**Dec 2022 – Sept 2023**  
+- Designed automated test suites using **Selenium + Python**  
+- Led performance and security testing using **JMeter**, **OWASP ZAP**  
+- Collaborated with distributed teams to reduce release cycle times and improve test traceability
 
 ---
+
+### 🔹 Dynamic Solution Innovators — Jr. Software QA Engineer  
+**Sept 2021 – Nov 2022**  
+- Developed and executed functional, API, and regression test cases  
+- Automated test suites integrated with **Jenkins CI pipelines**  
+- Improved overall test coverage through reusable component design
+
+---
+
+### 🔹 We Carry Bags (UK) — QA Engineer  
+**June 2020 – Aug 2021**  
+- Developed test automation scripts for e-commerce platforms  
+- Integrated Jenkins with Selenium for nightly build testing  
+- Documented defects and collaborated on quick turnaround QA sprints
+
+---
+
+## 🏆 Key Projects & Contributions
+
+- ✅ **Playwright Automation Suite**: Built a modular, Dockerized automation suite using TypeScript + Playwright, integrated with Bitbucket and MS Teams  
+- ✅ **Kinetik Health App QA Lead**: Led full-cycle mobile QA strategy (manual + automation) across Android and iOS, significantly reducing release bugs  
+- ✅ **API Test Automation**: Automated backend services and GraphQL endpoints using Postman + CI/CD pipelines  
+- ✅ **Performance Pipelines**: Built load test scripts using **k6**, triggered via Jenkins nightly jobs  
+- ✅ **Visual & Accessibility Testing**: Leveraged **Applitools** and WCAG guidelines for pixel-perfect, inclusive design testing
+
+---
+
+## 📚 Certifications & Learning
+
+- 🏅 Certified Scrum Master (CSM)  
+- 🧪 ISTQB Advanced Level Test Automation Engineer  
+- ☁️ AWS Certified Cloud Practitioner  
+- 🎯 Actively learning AI-driven testing & ML-based anomaly detection tools  
+- 📝 Contributor to QA communities and open source initiatives
+
+---
+
+## 📬 Let’s Connect!
+
+- 🔗 [LinkedIn: linkedin.com/in/azantor](https://www.linkedin.com/in/azantor)  
+- 📧 [Email: arifuzantor@gmail.com](mailto:arifuzantor@gmail.com)  
+- 💻 [GitHub: github.com/arifuzantor](https://github.com/arifuzantor)
+
+---
+
+## ⚡ Empowering Software Quality with Automation, AI & Precision!
+
+*This README is regularly updated with new skills, tools, and contributions.*
 
