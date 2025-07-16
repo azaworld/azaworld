@@ -1,8 +1,7 @@
 # Arifuzzaman Antor  
 ### Sr. Software QA Automation Engineer  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-azantor-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/azantor)  
-[![Email](https://img.shields.io/badge/Email-arifuzantor@gmail.com-red?style=flat&logo=gmail)](mailto:arifuzantor@gmail.com)  
-[![GitHub followers](https://img.shields.io/github/followers/arifuzantor?style=social)](https://github.com/arifuzantor)  
+[![Email](https://img.shields.io/badge/Email-arifuzantor@gmail.com-red?style=flat&logo=gmail)](mailto:arifuzantor@gmail.com)   
 
 ---
 
@@ -137,7 +136,7 @@ I currently lead QA efforts for cross-platform mobile applications and mission-c
 
 - 🔗 [LinkedIn: linkedin.com/in/azantor](https://www.linkedin.com/in/azantor)  
 - 📧 [Email: arifuzantor@gmail.com](mailto:arifuzantor@gmail.com)  
-- 💻 [GitHub: github.com/arifuzantor](https://github.com/arifuzantor)
+- 💻 [GitHub: github.com/arifuzantor](https://github.com/azaworld)
 
 ---
 
