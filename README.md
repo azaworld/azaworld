@@ -1,13 +1,24 @@
-# Arifuzzaman “Antor”
-### Founder & CEO @ AZAI Labs · Technical Project Manager @ Platformz · Sr. Software Engineer @ Kintsugi
+<a href="https://azantor.xyz">
+  <img src="https://azantor.xyz/og.png" alt="Arifuzzaman Antor — turns chaos into shipped products" width="100%" />
+</a>
 
-**The person who turns chaos into shipped products.**
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=640&lines=Founder+%26+CEO+%40+AZAI+Labs;Technical+Project+Manager+%40+Platformz;Sr.+Software+Engineer+%40+Kintsugi;I+turn+chaos+into+shipped+products.+%F0%9F%9A%80" alt="Roles" />
+</h3>
 
-[![Website](https://img.shields.io/badge/Website-azantor.xyz-7c3aed?style=flat&logo=googlechrome&logoColor=white)](https://azantor.xyz)
-[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-22d3ee?style=flat&logo=readthedocs&logoColor=white)](https://azantor.xyz/resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-azantor-0a66c2?style=flat&logo=linkedin)](https://www.linkedin.com/in/azantor)
-[![Email](https://img.shields.io/badge/Email-arifuzantor%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:arifuzantor@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20%E2%98%855.0-14a800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b1ba72ba57683f43)
+<p align="center">
+  <a href="https://azantor.xyz"><img src="https://img.shields.io/badge/Website-azantor.xyz-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://azantor.xyz/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-22d3ee?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/azantor"><img src="https://img.shields.io/badge/LinkedIn-azantor-0a66c2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:arifuzantor@gmail.com"><img src="https://img.shields.io/badge/Email-contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01b1ba72ba57683f43"><img src="https://img.shields.io/badge/Upwork-Top%20Rated%20%E2%98%85%205.0%20%C2%B7%2023%20jobs-14a800?style=flat-square&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@azademy"><img src="https://img.shields.io/badge/YouTube-AZADEMY-ff0000?style=flat-square&logo=youtube" /></a>
+  <a href="https://azapodcast.com"><img src="https://img.shields.io/badge/Podcast-AZA%20Execution-f472b6?style=flat-square&logo=applepodcasts&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=azaworld&style=flat-square&color=7c3aed&label=profile+views" />
+</p>
 
 ---
 
@@ -37,20 +48,15 @@ Before that: six years of QA, automation, and reliability engineering for **Mast
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech I Ship With
 
-| Category | Stack |
-|---|---|
-| **Languages** | TypeScript, JavaScript, Python, Java |
-| **Web & 3D** | Next.js, React, Three.js / R3F, GSAP, Tailwind |
-| **Automation** | Playwright, Selenium, Cypress, Appium |
-| **API Testing** | Postman, REST Assured, Swagger, Newman |
-| **Performance** | k6, JMeter, Locust, Gatling |
-| **Security** | OWASP ZAP, Burp Suite, SonarQube |
-| **CI/CD & Infra** | GitHub Actions, Jenkins, Bitbucket Pipelines, Docker, AWS, Terraform |
-| **Observability** | Prometheus, Grafana, Allure, custom dashboards |
-| **Delivery** | Jira, Confluence, QASE, Kanban/flow metrics |
-| **AI in Engineering** | AI agents, LLM tooling, Applitools, self-healing tests |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,threejs,tailwind,nodejs,aws,terraform,docker,jenkins,githubactions,graphql,mongodb,mysql,figma&perline=9" alt="Tech stack" />
+</p>
+
+**Testing & Quality:** Playwright · Selenium · Cypress · Appium · Postman · REST Assured · k6 · JMeter · Locust · OWASP ZAP · Burp Suite · Allure
+**Delivery & Observability:** Jira · Confluence · QASE · Kanban flow metrics · Prometheus · Grafana
+**AI in Engineering:** AI agents · LLM tooling · Applitools · self-healing tests
 
 ---
 
@@ -65,9 +71,17 @@ Before that: six years of QA, automation, and reliability engineering for **Mast
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=azaworld&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaworld&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azaworld&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1026" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaworld&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1026" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azaworld&theme=tokyonight&hide_border=true&background=0b1026" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azaworld&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 ---
@@ -75,5 +89,9 @@ Before that: six years of QA, automation, and reliability engineering for **Mast
 ## 🤝 Work With Me
 
 Fractional TPM / delivery leadership · QA & automation consulting · AI agents via AZAI Labs · speaking & teaching.
+
+<p align="center">
+  <a href="https://azantor.xyz/personal-brand-studio"><img src="https://img.shields.io/badge/✦_Get_your_own_premium_website-Personal_Brand_Studio-7c3aed?style=for-the-badge" /></a>
+</p>
 
 **📬 [arifuzantor@gmail.com](mailto:arifuzantor@gmail.com) · 🌐 [azantor.xyz](https://azantor.xyz) · response time: usually < 24h**
