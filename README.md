@@ -72,8 +72,8 @@ Before that: six years of QA, automation, and reliability engineering for **Mast
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azaworld&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1026" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaworld&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1026" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-multiuser.vercel.app/api?usernames=azaworld&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1026" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-multiuser.vercel.app/api/top-langs?usernames=azaworld&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1026" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ Before that: six years of QA, automation, and reliability engineering for **Mast
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azaworld&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=azaworld&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 </p>
 
 ---
