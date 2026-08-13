@@ -24,9 +24,9 @@
 
 ## 👋 About Me
 
-I build companies and run delivery. By day I'm the **Technical Project Manager at [Platformz](https://platformz.us)** — running three client platforms with a **30+ person** cross-functional team — and a **feature lead at Kintsugi** (AI-powered tax compliance, San Francisco). I'm also the **Founder & CEO of [AZAI Labs](https://azailabs.dev)**, where we build with agents, not headcount.
+I build companies and run delivery. By day I'm the **Technical Project Manager at [Platformz](https://platformz.us)** — running three client platforms with a **30+ person** cross-functional team — with full QA ownership and CEO/CTO/CFO/CMO & board reporting. I'm also the **Founder & CEO of [AZAI Labs](https://azailabs.dev)**, where we build with agents, not headcount.
 
-Before that: six years of QA, automation, and reliability engineering for **Mastercard**, **Grameenphone (MyGP)**, **Kinetik (NYC healthcare)**, and global insurance clients — plus **23 Upwork jobs, every one rated ★5.0 (Top Rated)**.
+Before that: six years of QA, automation, and reliability engineering for **Mastercard**, **Kintsugi (AI tax compliance, SF — Sr. SDET)**, **Grameenphone (MyGP)**, **Kinetik (NYC healthcare)**, and global insurance clients — plus **23 Upwork jobs, every one rated ★5.0 (Top Rated)**.
 
 - 🚚 Delivered a 12-month **3P hybrid EDI program in ~60 days** (Amazon, Walmart, Target, Chewy)
 - 🏪 FUR4 live on **Chewy, Amazon, Walmart, eBay & Macy's** — 5 portals on a Magento core
