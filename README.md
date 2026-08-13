@@ -48,15 +48,33 @@ Before that: six years of QA, automation, and reliability engineering for **Mast
 
 ---
 
-## 🛠️ Tech I Ship With
+## 🛠️ Skills — Prioritized & At a Glance
+
+> **How to read this:** 🥇 = expert, my daily drivers — hire me for these. 🥈 = advanced, ship-to-production strength. 🥉 = solid working knowledge.
+
+| Priority | Domain | What I actually do | Tools & tech |
+|:---:|---|---|---|
+| 🥇 | **Technical Program / Project Management** | Run delivery end-to-end: roadmaps, sprint & release management, cross-team coordination of 30+ people, stakeholder reporting, risk & scope control — compressed a 12-month EDI program into ~60 days | Jira · Confluence · QASE · Kanban flow metrics · release gates · RAID logs |
+| 🥇 | **QA & Test Automation Engineering** | Architect automation frameworks from zero (web, mobile, API), set QA strategy & release gates, lead QA teams — built MyGP's complete backend framework, run FUR4's 5-portal QA | Playwright · Selenium · Cypress · Appium · REST Assured · Postman · TestRail · Allure · BrowserStack · AWS Device Farm · BDD (Cucumber/Gherkin) |
+| 🥇 | **AI Engineering & Agents** | Build custom AI agents & agentic workflow automation (AZAI Labs), LLM apps on Claude & OpenAI APIs, MCP integrations, AI-powered QA (self-healing tests, visual AI), and teach it all via AZADEMY | Claude API · OpenAI API · MCP · AI agent frameworks · Claude Code · Applitools · prompt engineering |
+| 🥈 | **Software Engineering** | Full-stack feature delivery: typed backends, REST/GraphQL APIs, React frontends, e-commerce (Magento) — feature lead at an AI tax-compliance startup | TypeScript · JavaScript · Python · Java · Node.js · React · Next.js · GraphQL · Magento · MongoDB · MySQL |
+| 🥈 | **Performance & Load Engineering** | Load, stress, soak & spike testing with CI-integrated thresholds — payment-critical and telecom-scale systems | k6 · JMeter · Locust · LoadRunner · Gatling |
+| 🥈 | **Security Testing** | OWASP-based security testing, vuln scanning, pentest-style assessments as part of release QA | OWASP ZAP · Burp Suite · Kali Linux |
+| 🥈 | **DevOps, Cloud & CI/CD** | Pipelines that gate on quality, containerized test infra, IaC | AWS (Lambda · SQS · S3 · EC2) · Docker · Terraform · Jenkins · GitHub Actions · GitLab CI · Bitbucket Pipelines |
+| 🥉 | **Reliability & Observability** | Chaos engineering on payment-critical systems (Mastercard), dashboards & alerting | Prometheus · Grafana · InfluxDB · chaos experiments |
+| 🥉 | **Design & Content** | Design collaboration, 3D/interactive web, podcasting & video production | Figma · Three.js · Tailwind · YouTube/podcast production |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,threejs,tailwind,nodejs,aws,terraform,docker,jenkins,githubactions,graphql,mongodb,mysql,figma&perline=9" alt="Tech stack" />
 </p>
 
-**Testing & Quality:** Playwright · Selenium · Cypress · Appium · Postman · REST Assured · k6 · JMeter · Locust · OWASP ZAP · Burp Suite · Allure
-**Delivery & Observability:** Jira · Confluence · QASE · Kanban flow metrics · Prometheus · Grafana
-**AI in Engineering:** AI agents · LLM tooling · Applitools · self-healing tests
+### 🤖 What I can do with AI
+
+- **Build agents that do real work** — custom AI agents & multi-agent workflows for QA, ops, and business automation (AZAI Labs: *build with agents, not headcount*)
+- **LLM application engineering** — Claude & OpenAI APIs, MCP servers/integrations, prompt engineering, evals
+- **AI-powered quality** — self-healing test suites, visual AI testing (Applitools), AI test generation
+- **AI-assisted delivery** — agentic coding workflows (Claude Code) baked into real production teams
+- **Teach & train** — AI courses, workshops and real interview prep via [AZADEMY](https://azademy.org)
 
 ---
 
@@ -86,9 +104,29 @@ Before that: six years of QA, automation, and reliability engineering for **Mast
 
 ---
 
+## 💼 Upwork — Top Rated, Perfect Score
+
+<a href="https://www.upwork.com/freelancers/~01b1ba72ba57683f43"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+
+| | |
+|---|---|
+| 🏅 **Badge** | Top Rated |
+| ✅ **Jobs completed** | 23 |
+| ⭐ **Rating** | 5.0 on every single job — no exceptions |
+| 🌍 **Clients** | US, UK & global — healthcare, fintech, e-commerce, telecom, insurance |
+| 🔗 **Hire me** | [upwork.com/freelancers/~01b1ba72ba57683f43](https://www.upwork.com/freelancers/~01b1ba72ba57683f43) |
+
+---
+
 ## 🤝 Work With Me
 
-Fractional TPM / delivery leadership · QA & automation consulting · AI agents via AZAI Labs · speaking & teaching.
+| Service | What you get |
+|---|---|
+| 🧭 **Fractional TPM / Delivery Lead** | Roadmap prioritization, cross-team coordination, stakeholder reporting — chaos in, shipped products out |
+| 🧪 **QA & Automation Consulting** | Manual + automation strategy, framework builds, API/security/performance testing, release-gate setup |
+| 🤖 **AI Agents (AZAI Labs)** | Custom agent development & agentic workflow automation for quality and operations |
+| 🎤 **Instruction & Speaking** | AI & tech courses, podcast guesting/hosting, event MC, interview coaching |
+| 🧑‍💼 **Hiring & Technical Interviews** | Technical screening, hiring scorecards, interview-prep coaching |
 
 <p align="center">
   <a href="https://azantor.xyz/personal-brand-studio"><img src="https://img.shields.io/badge/✦_Get_your_own_premium_website-Personal_Brand_Studio-7c3aed?style=for-the-badge" /></a>
