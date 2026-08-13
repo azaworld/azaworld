@@ -55,7 +55,7 @@ Before that: six years of QA, automation, and reliability engineering for **Mast
 | Priority | Domain | What I actually do | Tools & tech |
 |:---:|---|---|---|
 | 🥇 | **Technical Program / Project Management** | Run delivery end-to-end: roadmaps, sprint & release management, cross-team coordination of 30+ people, stakeholder reporting, risk & scope control — compressed a 12-month EDI program into ~60 days | Jira · Confluence · QASE · Kanban flow metrics · release gates · RAID logs |
-| 🥇 | **QA & Test Automation Engineering** | Architect automation frameworks from zero (web, mobile, API), set QA strategy & release gates, lead QA teams — built MyGP's complete backend framework, run FUR4's 5-portal QA | Playwright · Selenium · Cypress · Appium · REST Assured · Postman · TestRail · Allure · BrowserStack · AWS Device Farm · BDD (Cucumber/Gherkin) |
+| 🥇 | **QA & Test Automation Engineering** | Architect automation frameworks from zero (web, mobile, API), set QA strategy & release gates, lead QA teams — built MyGP's complete backend framework, run FUR4's 5-portal QA | Playwright · Selenium · Cypress · Appium · REST Assured · Postman · TestRail · Allure · BrowserStack — **[full QA arsenal ⬇](#-the-full-qa--testing-arsenal)** |
 | 🥇 | **AI Engineering & Agents** | Build custom AI agents & agentic workflow automation (AZAI Labs), LLM apps on Claude & OpenAI APIs, MCP integrations, AI-powered QA (self-healing tests, visual AI), and teach it all via AZADEMY | Claude API · OpenAI API · MCP · AI agent frameworks · Claude Code · Applitools · prompt engineering |
 | 🥈 | **Software Engineering** | Full-stack feature delivery: typed backends, REST/GraphQL APIs, React frontends, e-commerce (Magento) — feature lead at an AI tax-compliance startup | TypeScript · JavaScript · Python · Java · Node.js · React · Next.js · GraphQL · Magento · MongoDB · MySQL |
 | 🥈 | **Performance & Load Engineering** | Load, stress, soak & spike testing with CI-integrated thresholds — payment-critical and telecom-scale systems | k6 · JMeter · Locust · LoadRunner · Gatling |
@@ -67,6 +67,26 @@ Before that: six years of QA, automation, and reliability engineering for **Mast
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,threejs,tailwind,nodejs,aws,terraform,docker,jenkins,githubactions,graphql,mongodb,mysql,figma&perline=9" alt="Tech stack" />
 </p>
+
+### 🧪 The Full QA & Testing Arsenal
+
+Every QA discipline I practice, in one place — 6+ years across payments, healthcare, telecom, insurance & e-commerce.
+
+| QA Discipline | Skills & tools |
+|---|---|
+| 🧠 **Test Strategy & Types** | Test planning · test-case design · risk-based testing · exploratory testing · functional · regression · smoke & sanity · UAT coordination · cross-browser & cross-device · shift-left testing |
+| 🌐 **Web UI Automation** | Playwright (TypeScript/Python) · Selenium WebDriver · Cypress · Page Object Model · data-driven frameworks · self-healing locators · parallel execution grids |
+| 📱 **Mobile QA** | Appium (iOS & Android) · BrowserStack · AWS Device Farm · Xamarin Test Cloud · real-device & emulator labs · app release testing |
+| 🔌 **API & Integration Testing** | Postman · REST Assured · Swagger/OpenAPI validation · GraphQL testing · contract & schema testing · service mocking & stubs · webhook testing |
+| 📦 **EDI & Supply-Chain Testing** | X12 documents (850 · 810 · 856 · 997) · AS2 · 3P/marketplace integration QA (Amazon · Walmart · Target · Chewy) · order-to-invoice flow validation |
+| ⚡ **Performance & Load** | k6 · JMeter · LoadRunner · Gatling · Locust · load, stress, soak & spike testing · CI-integrated thresholds · InfluxDB + Grafana result dashboards |
+| 🔐 **Security Testing** | OWASP Top 10 · OWASP ZAP · Burp Suite · Kali Linux · auth & session testing · payment-flow security (Mastercard) |
+| 👁️ **Visual & Accessibility** | Applitools visual AI · visual regression · WCAG accessibility checks · responsive/viewport testing |
+| 🥒 **BDD & Test Frameworks** | Cucumber/Gherkin · TestNG · JUnit · PyTest · Jest/Mocha · fixtures & factories · keyword-driven design |
+| 📋 **Test Management & Process** | TestRail · QASE · Jira/Xray-style workflows · Allure reporting · defect triage · release gates · QA metrics (escape rate, flake rate, coverage) |
+| 💥 **Reliability & Chaos** | Chaos engineering on payment-critical systems · failure injection · monitoring-driven QA (Prometheus/Grafana) |
+| 🤖 **AI-Assisted QA** | Self-healing test suites · AI test generation · visual AI · agentic QA workflows (AZAI Labs) |
+| 🏭 **Domain Expertise** | E-commerce (Magento, 5-portal marketplace ops) · payments/fintech · healthcare (NYC) · telecom (Bangladesh's largest operator) · insurance · civic tech (OpenCRVS) |
 
 ### 🤖 What I can do with AI
 
