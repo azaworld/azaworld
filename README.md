@@ -1,9 +1,9 @@
 <a href="https://azantor.xyz">
-  <img src="https://azantor.xyz/og.png" alt="Arifuzzaman Antor — turns chaos into shipped products" width="100%" />
+  <img src="assets/hero-banner.svg" alt="Arifuzzaman Antor — turns chaos into shipped products" width="100%" />
 </a>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=640&lines=Founder+%26+CEO+%40+AZAI+Labs;Technical+Project+Manager+%40+Platformz;Sr.+Software+Engineer+%40+Kintsugi;I+turn+chaos+into+shipped+products.+%F0%9F%9A%80" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=640&lines=Founder+%26+CEO+%40+AZAI+Labs;Technical+Project+Manager+%40+Platformz;Podcaster+%C2%B7+AI+Tech+Instructor;Building+with+agents%2C+not+headcount+%F0%9F%A4%96;I+turn+chaos+into+shipped+products.+%F0%9F%9A%80" alt="Roles" />
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 👋 About Me
 
-I build companies and run delivery. By day I'm the **Technical Project Manager at [Platformz](https://platformz.us)** — running three client platforms with a **30+ person** cross-functional team — and a **Sr. Software Engineer & feature lead at Kintsugi** (AI-powered tax compliance, San Francisco). I'm also the **Founder & CEO of [AZAI Labs](https://azailabs.dev)**, where we build with agents, not headcount.
+I build companies and run delivery. By day I'm the **Technical Project Manager at [Platformz](https://platformz.us)** — running three client platforms with a **30+ person** cross-functional team — and a **feature lead at Kintsugi** (AI-powered tax compliance, San Francisco). I'm also the **Founder & CEO of [AZAI Labs](https://azailabs.dev)**, where we build with agents, not headcount.
 
 Before that: six years of QA, automation, and reliability engineering for **Mastercard**, **Grameenphone (MyGP)**, **Kinetik (NYC healthcare)**, and global insurance clients — plus **23 Upwork jobs, every one rated ★5.0 (Top Rated)**.
 

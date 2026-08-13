@@ -1,0 +1,91 @@
+<svg viewBox="0 0 1200 400" width="1200" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Arifuzzaman Antor — turns chaos into shipped products">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#150e2e"/>
+      <stop offset="45%" stop-color="#0b1026"/>
+      <stop offset="100%" stop-color="#072031"/>
+    </linearGradient>
+    <radialGradient id="blobPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobTeal" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="antor" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0; 1 0; -1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="typeReveal">
+      <rect x="78" y="178" width="0" height="42">
+        <animate attributeName="width" from="0" to="540" dur="2s" begin="0.8s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="400" fill="url(#bg)"/>
+  <circle cx="180" cy="80" r="260" fill="url(#blobPurple)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 50 30; 0 0" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="360" r="300" fill="url(#blobTeal)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -60 -40; 0 0" dur="13s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="760" cy="40" r="200" fill="url(#blobPink)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -30 50; 0 0" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- eyebrow -->
+  <rect x="80" y="66" width="46" height="7" rx="3.5" fill="#22d3ee">
+    <animate attributeName="opacity" values="1;0.45;1" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="140" y="74" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="6" fill="#22d3ee">PORTFOLIO</text>
+
+  <!-- name -->
+  <text x="78" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="62" font-weight="800" fill="#f1f5f9">Arifuzzaman <tspan fill="url(#antor)">&#8220;Antor&#8221;</tspan></text>
+
+  <!-- tagline: typed out with blinking cursor -->
+  <text x="80" y="210" clip-path="url(#typeReveal)" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="29" font-weight="600" fill="#dbe3f4">Turns chaos into shipped products.</text>
+  <rect x="84" y="184" width="3.5" height="32" fill="#22d3ee">
+    <animate attributeName="x" from="84" to="600" dur="2s" begin="0.8s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" begin="2.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- headline roles -->
+  <text x="80" y="256" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#93a0c2" opacity="0">
+    Founder &amp; CEO&#160;&#160;&#183;&#160;&#160;Technical Project Manager&#160;&#160;&#183;&#160;&#160;Podcaster&#160;&#160;&#183;&#160;&#160;AI Tech Instructor
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2.4s" fill="freeze"/>
+  </text>
+
+  <!-- chaos -> shipped animation (right side) -->
+  <g>
+    <!-- the box that "ships" -->
+    <rect x="922" y="112" width="176" height="176" rx="18" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.9;0.9;0" keyTimes="0;0.45;0.55;0.9;1" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <!-- particles: scattered chaos converging into an ordered 3x3 grid -->
+    <circle r="6" fill="#a78bfa"><animateMotion path="M 860 70 C 1080 40, 830 200, 952 142" dur="7s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.45;1"/><animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.93;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle r="6" fill="#22d3ee"><animateMotion path="M 1160 60 C 1000 160, 1120 60, 1010 142" dur="7s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.45;1"/><animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.93;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle r="6" fill="#f472b6"><animateMotion path="M 1180 200 C 1060 90, 1160 220, 1068 142" dur="7s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.45;1"/><animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.93;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle r="6" fill="#22d3ee"><animateMotion path="M 850 320 C 950 380, 880 240, 952 200" dur="7s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.45;1"/><animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.93;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle r="6" fill="#f1f5f9"><animateMotion path="M 880 150 C 1150 130, 900 300, 1010 200" dur="7s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.45;1"/><animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.93;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle r="6" fill="#a78bfa"><animateMotion path="M 1150 340 C 1020 280, 1150 260, 1068 200" dur="7s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.45;1"/><animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.93;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle r="6" fill="#f472b6"><animateMotion path="M 900 380 C 820 260, 1000 340, 952 258" dur="7s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.45;1"/><animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.93;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle r="6" fill="#22d3ee"><animateMotion path="M 1060 30 C 940 120, 1100 180, 1010 258" dur="7s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.45;1"/><animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.93;1" dur="7s" repeatCount="indefinite"/></circle>
+    <circle r="6" fill="#f1f5f9"><animateMotion path="M 1190 300 C 1090 380, 940 300, 1068 258" dur="7s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.45;1"/><animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.06;0.5;0.93;1" dur="7s" repeatCount="indefinite"/></circle>
+    <!-- caption -->
+    <text x="1010" y="322" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#6b7694">CHAOS &#8594; SHIPPED</text>
+  </g>
+
+  <!-- divider + footer -->
+  <line x1="80" y1="330" x2="820" y2="330" stroke="#3b4368" stroke-width="1"/>
+  <text x="80" y="368" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#22d3ee">azantor.xyz</text>
+  <text x="820" y="368" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#93a0c2">AZAI Labs&#160;&#160;&#183;&#160;&#160;Platformz&#160;&#160;&#183;&#160;&#160;AZADEMY&#160;&#160;&#183;&#160;&#160;SSAS Foundation</text>
+</svg>
