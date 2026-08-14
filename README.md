@@ -100,7 +100,7 @@ Every QA discipline I practice, in one place — 6+ years across payments, healt
 
 ## 📌 Featured Work
 
-- 📘 [**qa-manual-testing-roadmap**](https://github.com/azaworld/qa-manual-testing-roadmap) — **the complete manual QA career guide**: zero → QA Lead in 9 stages, with real templates & worked examples from my 6+ years in the field
+- 📘 [**qa-roadmap**](https://azaworld.github.io/qa-roadmap/) — **the complete QA curriculum** (Manual · Automation · AI · API · Performance · Security): a gamified site from zero to Sr. QA, with real examples, an AI + MCP capstone, and my [AZADEMY](https://azademy.vercel.app/) courses
 - 🎮 [**my-portfolio**](https://github.com/azaworld/my-portfolio) — [azantor.xyz](https://azantor.xyz): gamified 3D portfolio (XP, achievements, living résumé)
 - 🧪 [**playright-qa-automation---industry-grade**](https://github.com/azaworld/playright-qa-automation---industry-grade) — industry-grade Playwright framework
 - 📈 [**Fur4-Load-Testing-K6**](https://github.com/azaworld/Fur4-Load-Testing-K6) — k6 load-testing suite for the FUR4 platform
