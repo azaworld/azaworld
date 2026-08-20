@@ -3,7 +3,7 @@
 </a>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=640&lines=Founder+%26+CEO+%40+AZAI+Labs;Technical+Project+Manager+%40+Platformz;Podcaster+%C2%B7+AI+Tech+Instructor;Building+with+agents%2C+not+headcount+%F0%9F%A4%96;I+turn+chaos+into+shipped+products.+%F0%9F%9A%80" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=680&lines=Founder+%26+CEO+%40+AZAI+Labs;Co-Founder+%26+CTO+%40+Upward;Technical+Project+Manager+%40+Platformz;Sr.+Software+Engineer+%C2%B7+QA+Consultant;Podcaster+%C2%B7+AI+Tech+Instructor;I+turn+chaos+into+shipped+products.+%F0%9F%9A%80" alt="Roles" />
 </h3>
 
 <p align="center">
@@ -26,12 +26,26 @@
 
 I build companies and run delivery. By day I'm the **Technical Project Manager at [Platformz](https://platformz.us)** — running three client platforms with a **30+ person** cross-functional team — with full QA ownership and CEO/CTO/CFO/CMO & board reporting. I'm also the **Founder & CEO of [AZAI Labs](https://azailabs.dev)**, where we build with agents, not headcount.
 
-Before that: six years of QA, automation, and reliability engineering for **Mastercard**, **Kintsugi (AI tax compliance, SF — Sr. SDET)**, **Grameenphone (MyGP)**, **Kinetik (NYC healthcare)**, and global insurance clients — plus **23 Upwork jobs, every one rated ★5.0 (Top Rated)**.
+My engineering track spans six years of QA, automation, reliability, and software delivery — including **Intelex via TCS**, **Mastercard**, **Kintsugi (AI tax compliance, SF — Sr. SDET)**, **Grameenphone (MyGP)**, **Kinetik (NYC healthcare)**, and global insurance clients — plus **23 Upwork jobs, every one rated ★5.0 (Top Rated)**.
 
 - 🚚 Delivered a 12-month **3P hybrid EDI program in ~60 days** (Amazon, Walmart, Target, Chewy)
 - 🏪 FUR4 live on **Chewy, Amazon, Walmart, eBay & Macy's** — 5 portals on a Magento core
 - 🧪 Built the **complete backend automation framework for MyGP** (Bangladesh's largest operator) from zero
 - 💥 Ran **chaos engineering** on payment-critical systems at Mastercard
+
+### Career snapshot
+
+| Period | Role | Organization |
+|---|---|---|
+| **Sep 2024 – Present** | Technical Project Manager | Platformz |
+| **Sep 2025 – Aug 2026** | Sr. Software QA Engineer · SDET | Kintsugi |
+| **Jan 2025 – Jun 2025** | Sr. Software Automation & Reliability Engineer | Mastercard |
+| **2024 – 2025** | Augmented Sr. Software QA Engineer | Intelex via TCS · US client |
+| **Feb 2024 – May 2026** | Software Automation Engineer II | All Generation Tech |
+| **Feb 2024 – Mar 2025** | Software QA Engineer | Grameenphone via Miaki · MyGP |
+| **Sep 2023 – Sep 2025** | Software QA Engineer I | Kinetik |
+
+> Several roles ran in parallel across consulting, augmentation, and remote delivery engagements.
 
 ---
 
