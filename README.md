@@ -3,7 +3,7 @@
 </a>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=680&lines=Founder+%26+CEO+%40+AZAI+Labs;Co-Founder+%26+CTO+%40+Upward;Technical+Project+Manager+%40+Platformz;Sr.+Software+Engineer+%C2%B7+QA+Consultant;Podcaster+%C2%B7+AI+Tech+Instructor;I+turn+chaos+into+shipped+products.+%F0%9F%9A%80" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=680&lines=Senior+SDET+%26+AI%2FLLM+Test+Automation+Architect;Technical+Project+Manager+%40+Platformz;Sr.+Software+Engineer+%C2%B7+QA+Consultant;Podcaster+%C2%B7+AI+Tech+Instructor;I+turn+chaos+into+shipped+products.+%F0%9F%9A%80" alt="Roles" />
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 👋 About Me
 
-I build companies and run delivery. By day I'm the **Technical Project Manager at [Platformz](https://platformz.us)** — running three client platforms with a **30+ person** cross-functional team — with full QA ownership and CEO/CTO/CFO/CMO & board reporting. I'm also the **Founder & CEO of [AZAI Labs](https://azailabs.dev)**, where we build with agents, not headcount.
+I build companies and run delivery. By day I'm the **Technical Project Manager at [Platformz](https://platformz.us)** — running three client platforms with a **30+ person** cross-functional team — with full QA ownership and C-suite & board reporting. I also work with **[AZAI Labs](https://azailabs.dev)**, which builds with agents, not headcount.
 
 My engineering track spans six years of QA, automation, reliability, and software delivery — including **Intelex via TCS**, **Mastercard**, **Kintsugi (AI tax compliance, SF — Sr. SDET)**, **Grameenphone (MyGP)**, **Kinetik (NYC healthcare)**, and global insurance clients — plus **23 Upwork jobs, every one rated ★5.0 (Top Rated)**.
 
@@ -37,15 +37,15 @@ My engineering track spans six years of QA, automation, reliability, and softwar
 
 | Period | Role | Organization |
 |---|---|---|
-| **Sep 2024 – Present** | Technical Project Manager | Platformz |
-| **Sep 2025 – Aug 2026** | Sr. Software QA Engineer · SDET | Kintsugi |
-| **Jan 2025 – Jun 2025** | Sr. Software Automation & Reliability Engineer | Mastercard |
-| **2024 – 2025** | Augmented Sr. Software QA Engineer | Intelex via TCS · US client |
+| **Sep 2025 – Aug 2026** | Senior SDET | Kintsugi |
+| **Sep 2024 – Present** | Technical Project Manager & QA Lead | Platformz |
+| **Sep 2023 – Sep 2025** | QA Engineer I | Kinetik |
 | **Feb 2024 – May 2026** | Software Automation Engineer II | All Generation Tech |
-| **Feb 2024 – Mar 2025** | Software QA Engineer | Grameenphone via Miaki · MyGP |
-| **Sep 2023 – Sep 2025** | Software QA Engineer I | Kinetik |
+| **Feb 2024 – Mar 2025** | Software QA Engineer | Grameenphone via Miaki |
+| **Feb 2022 – Aug 2023** | Sr. Automation & Reliability Engineer | Mastercard |
+| **—** | Augmented Sr. SQA | Intelex via TCS |
 
-> Several roles ran in parallel across consulting, augmentation, and remote delivery engagements.
+> Several roles overlapped across consulting, augmentation, and remote delivery engagements.
 
 ---
 
@@ -71,7 +71,7 @@ My engineering track spans six years of QA, automation, reliability, and softwar
 | 🥇 | **Technical Program / Project Management** | Run delivery end-to-end: roadmaps, sprint & release management, cross-team coordination of 30+ people, stakeholder reporting, risk & scope control — compressed a 12-month EDI program into ~60 days | Jira · Confluence · QASE · Kanban flow metrics · release gates · RAID logs |
 | 🥇 | **QA & Test Automation Engineering** | Architect automation frameworks from zero (web, mobile, API), set QA strategy & release gates, lead QA teams — built MyGP's complete backend framework, run FUR4's 5-portal QA | Playwright · Selenium · Cypress · Appium · REST Assured · Postman · TestRail · Allure · BrowserStack — **[full QA arsenal ⬇](#-the-full-qa--testing-arsenal)** |
 | 🥇 | **AI Engineering & Agents** | Build custom AI agents & agentic workflow automation (AZAI Labs), LLM apps on Claude & OpenAI APIs, MCP integrations, AI-powered QA (self-healing tests, visual AI), and teach it all via AZADEMY | Claude API · OpenAI API · MCP · AI agent frameworks · Claude Code · Applitools · prompt engineering |
-| 🥈 | **Software Engineering** | Full-stack feature delivery: typed backends, REST/GraphQL APIs, React frontends, e-commerce (Magento) — feature lead at an AI tax-compliance startup | TypeScript · JavaScript · Python · Java · Node.js · React · Next.js · GraphQL · Magento · MongoDB · MySQL |
+| 🥈 | **Software Engineering** | Full-stack feature delivery: typed backends, REST/GraphQL APIs, React frontends, e-commerce (Magento) — senior SDET on an AI tax-compliance platform | TypeScript · JavaScript · Python · Java · Node.js · React · Next.js · GraphQL · Magento · MongoDB · MySQL |
 | 🥈 | **Performance & Load Engineering** | Load, stress, soak & spike testing with CI-integrated thresholds — payment-critical and telecom-scale systems | k6 · JMeter · Locust · LoadRunner · Gatling |
 | 🥈 | **Security Testing** | OWASP-based security testing, vuln scanning, pentest-style assessments as part of release QA | OWASP ZAP · Burp Suite · Kali Linux |
 | 🥈 | **DevOps, Cloud & CI/CD** | Pipelines that gate on quality, containerized test infra, IaC | AWS (Lambda · SQS · S3 · EC2) · Docker · Terraform · Jenkins · GitHub Actions · GitLab CI · Bitbucket Pipelines |
