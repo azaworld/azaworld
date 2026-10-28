@@ -22,6 +22,10 @@
 
 ---
 
+**🔗 Where my work lives:** [azantor.xyz](https://azantor.xyz) (portfolio) · [CV (SDET)](https://azantor.xyz/sdet) · [Résumé PDF](https://azantor.xyz/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/azantor) · [Upwork](https://www.upwork.com/freelancers/~01b1ba72ba57683f43) · [Portfolio source](https://github.com/azaworld/my-portfolio)
+
+---
+
 ## 👋 About Me
 
 I build companies and run delivery. By day I'm the **Technical Project Manager at [Platformz](https://platformz.us)** — running three client platforms with a **30+ person** cross-functional team — with full QA ownership and C-suite & board reporting. I also work with **[AZAI Labs](https://azailabs.dev)**, which builds with agents, not headcount.
@@ -119,6 +123,12 @@ Every QA discipline I practice, in one place — 6+ years across payments, healt
 - 🧪 [**playright-qa-automation---industry-grade**](https://github.com/azaworld/playright-qa-automation---industry-grade) — industry-grade Playwright framework
 - 📈 [**Fur4-Load-Testing-K6**](https://github.com/azaworld/Fur4-Load-Testing-K6) — k6 load-testing suite for the FUR4 platform
 - 🐳 [**playwright-e2e-docker-aws**](https://github.com/azaworld/playwright-e2e-docker-aws) — EcomTestPilot: Playwright E2E in Docker on AWS
+- ⚡ [**k6-graphql-loadtesting**](https://github.com/azaworld/k6-graphql-loadtesting) — GraphQL load testing with k6, thresholds and reporting
+- 🎭 [**firsttrip-playwright-qa-automation**](https://github.com/azaworld/firsttrip-playwright-qa-automation) — Playwright POM framework with GitHub Actions CI
+- 🅒 [**CypressCloudProject**](https://github.com/azaworld/CypressCloudProject) — Cypress parallel runs, recording and CI integration
+- 🧭 [**Adobe-Project-Neo-Playwright**](https://github.com/azaworld/Adobe-Project-Neo-Playwright) — Playwright E2E for Adobe Project Neo
+
+Full list of repos: [github.com/azaworld?tab=repositories](https://github.com/azaworld?tab=repositories) · Live site with CV: [azantor.xyz/sdet](https://azantor.xyz/sdet)
 
 ---
 
