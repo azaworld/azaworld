@@ -45,9 +45,9 @@ My engineering track spans six years of QA, automation, reliability, and softwar
 | **Sep 2024 – Present** | Technical Project Manager & QA Lead | Platformz |
 | **Sep 2023 – Sep 2025** | QA Engineer I | Kinetik |
 | **Feb 2024 – May 2026** | Software Automation Engineer II | All Generation Tech |
+| **Jan 2025 – Jun 2025** | Sr. Automation & Reliability Engineer | Mastercard |
 | **Feb 2024 – Mar 2025** | Software QA Engineer | Grameenphone via Miaki |
-| **Feb 2022 – Aug 2023** | Sr. Automation & Reliability Engineer | Mastercard |
-| **—** | Augmented Sr. SQA | Intelex via TCS |
+| **2024 – 2025** | Augmented Sr. SQA | Intelex via TCS |
 
 > Several roles overlapped across consulting, augmentation, and remote delivery engagements.
 
