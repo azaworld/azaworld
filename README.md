@@ -42,7 +42,7 @@ My engineering track spans six years of QA, automation, reliability, and softwar
 | Period | Role | Organization |
 |---|---|---|
 | **Sep 2025 – Aug 2026** | Senior SDET | Kintsugi |
-| **Sep 2024 – Present** | Technical Project Manager & QA Lead | Platformz |
+| **Sep 2024 – Present** | Technical Project Manager | Platformz |
 | **Sep 2023 – Sep 2025** | QA Engineer I | Kinetik |
 | **Feb 2024 – May 2026** | Software Automation Engineer II | All Generation Tech |
 | **Jan 2025 – Jun 2025** | Sr. Automation & Reliability Engineer | Mastercard |
